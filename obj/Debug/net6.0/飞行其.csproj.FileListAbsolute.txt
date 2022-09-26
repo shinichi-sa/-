@@ -1,0 +1,15 @@
+C:\Users\s\source\repos\飞行其\bin\Debug\net6.0\飞行其.exe
+C:\Users\s\source\repos\飞行其\bin\Debug\net6.0\飞行其.deps.json
+C:\Users\s\source\repos\飞行其\bin\Debug\net6.0\飞行其.runtimeconfig.json
+C:\Users\s\source\repos\飞行其\bin\Debug\net6.0\飞行其.dll
+C:\Users\s\source\repos\飞行其\bin\Debug\net6.0\飞行其.pdb
+C:\Users\s\source\repos\飞行其\obj\Debug\net6.0\飞行其.csproj.AssemblyReference.cache
+C:\Users\s\source\repos\飞行其\obj\Debug\net6.0\飞行其.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s\source\repos\飞行其\obj\Debug\net6.0\飞行其.AssemblyInfoInputs.cache
+C:\Users\s\source\repos\飞行其\obj\Debug\net6.0\飞行其.AssemblyInfo.cs
+C:\Users\s\source\repos\飞行其\obj\Debug\net6.0\飞行其.csproj.CoreCompileInputs.cache
+C:\Users\s\source\repos\飞行其\obj\Debug\net6.0\飞行其.dll
+C:\Users\s\source\repos\飞行其\obj\Debug\net6.0\refint\飞行其.dll
+C:\Users\s\source\repos\飞行其\obj\Debug\net6.0\飞行其.pdb
+C:\Users\s\source\repos\飞行其\obj\Debug\net6.0\飞行其.genruntimeconfig.cache
+C:\Users\s\source\repos\飞行其\obj\Debug\net6.0\ref\飞行其.dll
